@@ -2,16 +2,17 @@
 
 Bem-vindo ao repositório do projeto de Front-End para 2024! Aqui você encontrará todas as informações e recursos relacionados ao nosso trabalho.
 
-### Professor: vinicius Holanda Cavalcante
-## 👥 Integrantes
+### Professor: Vinicius Holanda Cavalcante
 
-### Paulo André Carminati
+## 👥 Integrante
+
+- **Nome:** Paulo André Carminati
 - **RM:** 557881
 - **GitHub:** [github.com/carmipa](https://github.com/carmipa)
 
-
 ## 📂 Repositório do Trabalho
-[https://github.com/carmipa/cp_frontend_2024/tree/main](https://github.com/carmipa/IA-chatbot_2024)
+
+- **GitHub:** [Repositório no GitHub](https://github.com/carmipa/IA-chatbot_2024)
 
 ---
 
